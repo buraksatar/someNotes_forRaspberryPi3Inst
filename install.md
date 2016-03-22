@@ -1,4 +1,4 @@
-Yüklemek için,
+#Kurulum için için,
 
 1- https://www.raspberrypi.org/downloads/ sayfasından windows10 IoT Core seçilir.
 
