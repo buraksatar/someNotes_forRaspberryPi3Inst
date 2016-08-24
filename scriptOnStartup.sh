@@ -1,3 +1,4 @@
+#buraklauncher.sh
 sudo ifconfig wlan0 up
 sleep 5
 
